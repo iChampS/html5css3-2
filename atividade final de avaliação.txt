@@ -1,0 +1,9 @@
+HTML5 + CSS3 - Atividade de avaliação individual
+
+Entrega dia 24/10 via github
+
+- No github, adicionar o seu nome e o link da hospedagem do site no README
+- Layout (mesmo do site modelo estudado em aula)
+- Conteúdo (logo, texto, imagens, etc) 
+- Conteúdo livre (exceto o tema html5 + css3)
+- Ajustar todos os pontos de quebra
